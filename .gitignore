@@ -32,3 +32,18 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+#Ignore .env
+.env
+
+#Ignore keys
+*.pub
+
+#Ignore debug log
+*.log
+
+#Ignore credentials setup&run batch file
+add_keys_run.bat
+
+#Ignore lock file
+.terraform.lock.hcl
