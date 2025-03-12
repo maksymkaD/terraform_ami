@@ -12,4 +12,4 @@ terraform apply -auto-approve
 
 ## Full Report
 
-For a more detailed report on the process, see the full report [Report.pdf](path_to_report).
+For a more detailed report on the process, see the full report [Report.pdf](Report.pdf).
